@@ -37,6 +37,5 @@ The project uses three datasets from the AIDev collection:
 - **Users:** followers, user type (human or bot), and account creation time.
 
 The datasets are accessed directly from HuggingFace and are not stored in this repository due to size limitations.
-Instructions for accessing the data are provided in `data/raw/README.md`.
 
 ---
