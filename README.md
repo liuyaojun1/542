@@ -1,6 +1,6 @@
 # AIDev Pull Request Analysis – Project Documentation
 
-## Group 14
+## Group 5
 ### Yaojun Liu, Sasivimol Sirijangkapattana
 
 This document describes the AIDev Pull Request Analysis project for DATA 542.
