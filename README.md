@@ -39,3 +39,18 @@ The project uses three datasets from the AIDev collection:
 The datasets are accessed directly from HuggingFace and are not stored in this repository due to size limitations.
 
 ---
+
+## 4. Repository File Guide
+
+This section describes the purpose of each file and folder in the repository.
+
+- **Project Milestone 2 Report.pdf**  
+  The written submission for Milestone 2, summarizing progress on RQ1 and planning on RQ2 and RQ3.
+
+- **RQ1.ipynb**  
+  Jupyter Notebook containing exploratory analysis and visualizations for Research Question 1.
+
+- **data/README.md**  
+  Explains how the dataset is accessed directly from HuggingFace and why raw data is not stored in the repository.
+
+---
