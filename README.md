@@ -34,7 +34,7 @@ The project uses three datasets from the AIDev collection:
 
 - **Pull requests:** timestamps, state, merge information, title and body text.
 - **Repositories:** stars, forks, creation time, and other metadata.
-- **Users:** followers, user type (human or bot), and account creation time.
+- **Users:** followers, AI agent type (Claude_Code, Copilot,..), and account creation time.
 
 The datasets are accessed directly from HuggingFace and are not stored in this repository due to size limitations.
 
