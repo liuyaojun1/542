@@ -40,15 +40,18 @@ The datasets are accessed directly from HuggingFace and are not stored in this r
 
 ---
 
-## 4. Repository File Guide (By Milestone 2)
+## 4. Repository File Guide (Final)
 
 This section describes the purpose of each file and folder in the repository.
 
-- **report/Project Milestone 2 Report.pdf**  
+- **report**  
   The written submission for Milestone 2, summarizing progress on RQ1 and planning on RQ2 and RQ3. ([Report](report/Project%20Milestone%202%20Report.pdf))
+  The written submission for the final project. ([Report](report/Project%20Milestone%202%20Report.pdf))
 
-- **code/RQ1.ipynb**  
+- **code
   Jupyter Notebook containing exploratory analysis and visualizations for Research Question 1. ([RQ1 code](code/RQ1.ipynb))
+  
+  Jupyter Notebook containing exploratory analysis and visualizations for all research questions. ([RQ1 code](code/RQ1.ipynb))
 
 - **data/README.md**  
   Explains how the dataset is accessed directly from HuggingFace and why raw data is not stored in the repository. ([Dataset Source](data/README.md))
