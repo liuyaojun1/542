@@ -46,7 +46,8 @@ This section describes the purpose of each file and folder in the repository.
 
 - **report**  
   The written submission for Milestone 2, summarizing progress on RQ1 and planning on RQ2 and RQ3. ([Report](report/Project%20Milestone%202%20Report.pdf))
-  The written submission for the final project. ([Report](report/Project%20Milestone%202%20Report.pdf))
+  
+  The written submission for the final project. ([Report](report/Final_report.pdf))
 
 - **code
   Jupyter Notebook containing exploratory analysis and visualizations for Research Question 1. ([RQ1 code](code/RQ1.ipynb))
