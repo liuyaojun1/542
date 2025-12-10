@@ -53,7 +53,7 @@ This section describes the purpose of each file and folder in the repository.
 
   Jupyter Notebook containing exploratory analysis and visualizations for Research Question 1. ([RQ1 code](code/RQ1.ipynb))
   
-  Jupyter Notebook containing exploratory analysis and visualizations for all research questions. ([final code](code/final_project_code))
+  Jupyter Notebook containing exploratory analysis and visualizations for all research questions. ([final code](code/final_project_code.ipynb))
 
 - **data/README.md**  
   Explains how the dataset is accessed directly from HuggingFace and why raw data is not stored in the repository. ([Dataset Source](data/README.md))
