@@ -14,8 +14,6 @@ The purpose of this project is to study pull request (PR) behaviour in the AIDev
 
 We are interested in how repository popularity, user influence, text characteristics, and AI coding agents relate to PR outcomes such as resolution time and merge success.
 
-Milestone 2 focuses on the first research question (RQ1). RQ2 and RQ3 will be completed for the final report.
-
 ---
 
 ## 2. Research Questions
